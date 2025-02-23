@@ -485,3 +485,5 @@ $RECYCLE.BIN/
 API/appsettings.json
 API/togetherHub.db
 identifier.sqlite
+API/togetherHub.db-wal
+API/togetherHub.db-shm
